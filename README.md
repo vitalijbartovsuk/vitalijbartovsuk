@@ -1,6 +1,9 @@
 <div align="center" style="display: inline-block;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=64&center=true&vCenter=true&width=1600&height=140&lines=Welcome+to+my+profile!" alt="Typing SVG" style="display: inline-block;">
-</div>
+</div> 
+
+# <div align="center">🏆 AI & Full-Stack Developer is here! 🏆</div>
+<br/>
 
 ## 🧠 AI Specialization
 - **AI/ML Development**: Building intelligent applications with end-to-end AI integration
